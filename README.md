@@ -4,7 +4,11 @@
 - 💞️ I’m not looking to collaborate on anything at the moment, but hope to do so when I feel more capable.
 - 📫 How to reach me... Email me technostrife@outlook.com
 
-<!---
-cpzero/cpzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+             Schedule for 2022 
+
+- Finish JavaScript intermediate level
+- Finish CSS intermediate level
+- Finish HTML intermediate level
+- Finish my personal WordPress site
+- Build a blogging site for a friend
+- Build e-commerce site for a local business
